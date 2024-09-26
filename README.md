@@ -10,9 +10,9 @@
  🌱 Student at British Columbia Institute of Technology
 
 
-
+<!---
 [![Top Langs](https://github-readme-stats-ecru-nine-35.vercel.app/api/top-langs/?username=IntRoot&layout=donut)](https://github.com/IntRoot/github-readme-stats)
-
+--->
 
 ## Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
