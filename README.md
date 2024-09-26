@@ -1,7 +1,7 @@
 ### Hi! Welcome to my GitHub! 👋
 
 ### About Me
-### 🔭 Sotun Park
+### 🔭 Soyun
 
  💬 [Portfolio](https://www.notion.so/Hi-a9e0f7d1dd1b4b0ea3a6ee3dc0ba2154?pvs=4)
  
